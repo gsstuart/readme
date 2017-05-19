@@ -1,3 +1,3 @@
 # readme
 
-!(nothing.gif?raw=true)
+!(https://raw.githubusercontent.com/gsstuart/readme/master/nothing.gif)
