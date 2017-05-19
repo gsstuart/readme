@@ -1,3 +1,3 @@
 # readme
 
-!(nothing.gif)
+!(nothing.gif?raw=true)
