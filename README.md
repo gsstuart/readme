@@ -16,8 +16,5 @@ http://htmlpreview.github.io/?https://github.com/gsstuart/datasciencecoursera/bl
 *Reproducible analysis of fitness monitor data, using R:*
 https://github.com/gsstuart/RepData_PeerAssessment1/blob/master/PA1_template.md
 
-
-
 For more information, please contact privately or see LinkedIn:
-
 https://www.linkedin.com/in/gscottstuart/
